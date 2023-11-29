@@ -1,6 +1,6 @@
 # Recipe App 
 
-## A Full Stack ** Responsive **  Application for Recipes. 
+## A Full Stack Responsive  Application for Recipes. 
 
 ### Technologies:
 
